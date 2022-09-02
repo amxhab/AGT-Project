@@ -1,2 +1,2 @@
 # AGT-Project
- Test our greedy algorithm for a ad auction special model
+ Test our greedy algorithm for an ad auction special model
