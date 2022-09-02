@@ -1,0 +1,2502 @@
+[
+    {
+        "greedy": {
+            "time": 0.07403826713562012,
+            "revenue": 54,
+            "welfare": -2,
+            "winning_bid": 62
+        },
+        "greedy_private": {
+            "time": 0.07701373100280762,
+            "revenue": 61,
+            "welfare": -14,
+            "winning_bid": 63
+        },
+        "optimal": {
+            "time": 166.9704864025116,
+            "revenue": 63,
+            "welfare": -16,
+            "winning_bid": 63
+        },
+        "second_price_auction": {
+            "revenue": 48,
+            "welfare": 4,
+            "winning_bid": 52
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.089996337890625,
+            "revenue": 50,
+            "welfare": 13,
+            "winning_bid": 69
+        },
+        "greedy_private": {
+            "time": 0.05901598930358887,
+            "revenue": 56,
+            "welfare": 7,
+            "winning_bid": 69
+        },
+        "optimal": {
+            "time": 169.73273968696594,
+            "revenue": 65,
+            "welfare": -2,
+            "winning_bid": 67
+        },
+        "second_price_auction": {
+            "revenue": 50,
+            "welfare": 13,
+            "winning_bid": 63
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.08031296730041504,
+            "revenue": 53,
+            "welfare": 1,
+            "winning_bid": 56
+        },
+        "greedy_private": {
+            "time": 0.07813191413879395,
+            "revenue": 63,
+            "welfare": -21,
+            "winning_bid": 64
+        },
+        "optimal": {
+            "time": 173.56475830078125,
+            "revenue": 63,
+            "welfare": -6,
+            "winning_bid": 63
+        },
+        "second_price_auction": {
+            "revenue": 54,
+            "welfare": 3,
+            "winning_bid": 57
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.06967997550964355,
+            "revenue": 49,
+            "welfare": -11,
+            "winning_bid": 50
+        },
+        "greedy_private": {
+            "time": 0.05239081382751465,
+            "revenue": 57,
+            "welfare": -17,
+            "winning_bid": 57
+        },
+        "optimal": {
+            "time": 157.74310326576233,
+            "revenue": 55,
+            "welfare": -8,
+            "winning_bid": 57
+        },
+        "second_price_auction": {
+            "revenue": 44,
+            "welfare": 3,
+            "winning_bid": 47
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.07636880874633789,
+            "revenue": 57,
+            "welfare": -1,
+            "winning_bid": 58
+        },
+        "greedy_private": {
+            "time": 0.05601167678833008,
+            "revenue": 55,
+            "welfare": 1,
+            "winning_bid": 58
+        },
+        "optimal": {
+            "time": 159.6736798286438,
+            "revenue": 58,
+            "welfare": -2,
+            "winning_bid": 58
+        },
+        "second_price_auction": {
+            "revenue": 53,
+            "welfare": 3,
+            "winning_bid": 56
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.058515310287475586,
+            "revenue": 70,
+            "welfare": 3,
+            "winning_bid": 75
+        },
+        "greedy_private": {
+            "time": 0.0781245231628418,
+            "revenue": 67,
+            "welfare": 6,
+            "winning_bid": 77
+        },
+        "optimal": {
+            "time": 161.02861547470093,
+            "revenue": 75,
+            "welfare": -2,
+            "winning_bid": 76
+        },
+        "second_price_auction": {
+            "revenue": 61,
+            "welfare": 12,
+            "winning_bid": 73
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.06928157806396484,
+            "revenue": 61,
+            "welfare": 15,
+            "winning_bid": 80
+        },
+        "greedy_private": {
+            "time": 0.07811713218688965,
+            "revenue": 67,
+            "welfare": 9,
+            "winning_bid": 79
+        },
+        "optimal": {
+            "time": 162.1236605644226,
+            "revenue": 67,
+            "welfare": 9,
+            "winning_bid": 72
+        },
+        "second_price_auction": {
+            "revenue": 59,
+            "welfare": 17,
+            "winning_bid": 76
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.04924345016479492,
+            "revenue": 59,
+            "welfare": 11,
+            "winning_bid": 70
+        },
+        "greedy_private": {
+            "time": 0.07812619209289551,
+            "revenue": 63,
+            "welfare": 7,
+            "winning_bid": 74
+        },
+        "optimal": {
+            "time": 161.26093792915344,
+            "revenue": 64,
+            "welfare": 6,
+            "winning_bid": 69
+        },
+        "second_price_auction": {
+            "revenue": 60,
+            "welfare": 10,
+            "winning_bid": 70
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.06909418106079102,
+            "revenue": 64,
+            "welfare": 7,
+            "winning_bid": 76
+        },
+        "greedy_private": {
+            "time": 0.07947421073913574,
+            "revenue": 72,
+            "welfare": -1,
+            "winning_bid": 75
+        },
+        "optimal": {
+            "time": 159.52383375167847,
+            "revenue": 78,
+            "welfare": -16,
+            "winning_bid": 79
+        },
+        "second_price_auction": {
+            "revenue": 62,
+            "welfare": 9,
+            "winning_bid": 71
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.05805659294128418,
+            "revenue": 50,
+            "welfare": -4,
+            "winning_bid": 51
+        },
+        "greedy_private": {
+            "time": 0.062499046325683594,
+            "revenue": 56,
+            "welfare": 2,
+            "winning_bid": 64
+        },
+        "optimal": {
+            "time": 158.21579098701477,
+            "revenue": 58,
+            "welfare": 0,
+            "winning_bid": 59
+        },
+        "second_price_auction": {
+            "revenue": 53,
+            "welfare": 5,
+            "winning_bid": 58
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.05684709548950195,
+            "revenue": 58,
+            "welfare": -3,
+            "winning_bid": 59
+        },
+        "greedy_private": {
+            "time": 0.07945370674133301,
+            "revenue": 64,
+            "welfare": -8,
+            "winning_bid": 70
+        },
+        "optimal": {
+            "time": 156.52865958213806,
+            "revenue": 70,
+            "welfare": -14,
+            "winning_bid": 70
+        },
+        "second_price_auction": {
+            "revenue": 55,
+            "welfare": 1,
+            "winning_bid": 56
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.050112009048461914,
+            "revenue": 71,
+            "welfare": 3,
+            "winning_bid": 75
+        },
+        "greedy_private": {
+            "time": 0.07812690734863281,
+            "revenue": 73,
+            "welfare": 1,
+            "winning_bid": 80
+        },
+        "optimal": {
+            "time": 5973.673273086548,
+            "revenue": 74,
+            "welfare": -3,
+            "winning_bid": 75
+        },
+        "second_price_auction": {
+            "revenue": 71,
+            "welfare": 3,
+            "winning_bid": 74
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.06702947616577148,
+            "revenue": 59,
+            "welfare": 4,
+            "winning_bid": 65
+        },
+        "greedy_private": {
+            "time": 0.06253695487976074,
+            "revenue": 66,
+            "welfare": -3,
+            "winning_bid": 67
+        },
+        "optimal": {
+            "time": 161.34241008758545,
+            "revenue": 67,
+            "welfare": -4,
+            "winning_bid": 68
+        },
+        "second_price_auction": {
+            "revenue": 58,
+            "welfare": 5,
+            "winning_bid": 63
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.07188892364501953,
+            "revenue": 64,
+            "welfare": 4,
+            "winning_bid": 71
+        },
+        "greedy_private": {
+            "time": 0.06253671646118164,
+            "revenue": 67,
+            "welfare": 1,
+            "winning_bid": 72
+        },
+        "optimal": {
+            "time": 159.69199466705322,
+            "revenue": 70,
+            "welfare": -2,
+            "winning_bid": 70
+        },
+        "second_price_auction": {
+            "revenue": 62,
+            "welfare": 6,
+            "winning_bid": 68
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.07988667488098145,
+            "revenue": 63,
+            "welfare": 0,
+            "winning_bid": 65
+        },
+        "greedy_private": {
+            "time": 0.05701780319213867,
+            "revenue": 64,
+            "welfare": -1,
+            "winning_bid": 67
+        },
+        "optimal": {
+            "time": 161.0522975921631,
+            "revenue": 68,
+            "welfare": -5,
+            "winning_bid": 69
+        },
+        "second_price_auction": {
+            "revenue": 54,
+            "welfare": 9,
+            "winning_bid": 63
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.07605838775634766,
+            "revenue": 53,
+            "welfare": 7,
+            "winning_bid": 61
+        },
+        "greedy_private": {
+            "time": 0.06563687324523926,
+            "revenue": 54,
+            "welfare": 6,
+            "winning_bid": 64
+        },
+        "optimal": {
+            "time": 160.1615903377533,
+            "revenue": 56,
+            "welfare": 4,
+            "winning_bid": 61
+        },
+        "second_price_auction": {
+            "revenue": 50,
+            "welfare": 10,
+            "winning_bid": 60
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.06489896774291992,
+            "revenue": 56,
+            "welfare": 8,
+            "winning_bid": 70
+        },
+        "greedy_private": {
+            "time": 0.06249713897705078,
+            "revenue": 59,
+            "welfare": 5,
+            "winning_bid": 71
+        },
+        "optimal": {
+            "time": 156.13641715049744,
+            "revenue": 62,
+            "welfare": 2,
+            "winning_bid": 66
+        },
+        "second_price_auction": {
+            "revenue": 50,
+            "welfare": 14,
+            "winning_bid": 64
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.0770730972290039,
+            "revenue": 62,
+            "welfare": 0,
+            "winning_bid": 65
+        },
+        "greedy_private": {
+            "time": 0.0937490463256836,
+            "revenue": 65,
+            "welfare": -9,
+            "winning_bid": 69
+        },
+        "optimal": {
+            "time": 158.79362034797668,
+            "revenue": 68,
+            "welfare": -6,
+            "winning_bid": 69
+        },
+        "second_price_auction": {
+            "revenue": 57,
+            "welfare": 5,
+            "winning_bid": 62
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.06377983093261719,
+            "revenue": 58,
+            "welfare": -5,
+            "winning_bid": 60
+        },
+        "greedy_private": {
+            "time": 0.07812666893005371,
+            "revenue": 60,
+            "welfare": -7,
+            "winning_bid": 63
+        },
+        "optimal": {
+            "time": 157.33263278007507,
+            "revenue": 64,
+            "welfare": -14,
+            "winning_bid": 64
+        },
+        "second_price_auction": {
+            "revenue": 53,
+            "welfare": 0,
+            "winning_bid": 53
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.05549812316894531,
+            "revenue": 54,
+            "welfare": -7,
+            "winning_bid": 56
+        },
+        "greedy_private": {
+            "time": 0.06485486030578613,
+            "revenue": 59,
+            "welfare": -13,
+            "winning_bid": 61
+        },
+        "optimal": {
+            "time": 155.78754591941833,
+            "revenue": 60,
+            "welfare": -15,
+            "winning_bid": 60
+        },
+        "second_price_auction": {
+            "revenue": 47,
+            "welfare": 4,
+            "winning_bid": 51
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.0711367130279541,
+            "revenue": 52,
+            "welfare": 2,
+            "winning_bid": 61
+        },
+        "greedy_private": {
+            "time": 0.0625002384185791,
+            "revenue": 61,
+            "welfare": -3,
+            "winning_bid": 62
+        },
+        "optimal": {
+            "time": 157.855051279068,
+            "revenue": 62,
+            "welfare": -8,
+            "winning_bid": 64
+        },
+        "second_price_auction": {
+            "revenue": 54,
+            "welfare": 4,
+            "winning_bid": 58
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.0754094123840332,
+            "revenue": 58,
+            "welfare": -1,
+            "winning_bid": 64
+        },
+        "greedy_private": {
+            "time": 0.07815933227539062,
+            "revenue": 63,
+            "welfare": -6,
+            "winning_bid": 64
+        },
+        "optimal": {
+            "time": 157.07259440422058,
+            "revenue": 68,
+            "welfare": -11,
+            "winning_bid": 68
+        },
+        "second_price_auction": {
+            "revenue": 54,
+            "welfare": 3,
+            "winning_bid": 57
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.0656273365020752,
+            "revenue": 69,
+            "welfare": -6,
+            "winning_bid": 69
+        },
+        "greedy_private": {
+            "time": 0.07812333106994629,
+            "revenue": 69,
+            "welfare": 2,
+            "winning_bid": 74
+        },
+        "optimal": {
+            "time": 160.89362120628357,
+            "revenue": 71,
+            "welfare": -8,
+            "winning_bid": 71
+        },
+        "second_price_auction": {
+            "revenue": 63,
+            "welfare": 8,
+            "winning_bid": 71
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.05825614929199219,
+            "revenue": 65,
+            "welfare": 3,
+            "winning_bid": 71
+        },
+        "greedy_private": {
+            "time": 0.0625009536743164,
+            "revenue": 64,
+            "welfare": 4,
+            "winning_bid": 71
+        },
+        "optimal": {
+            "time": 2225.3567304611206,
+            "revenue": 70,
+            "welfare": -2,
+            "winning_bid": 70
+        },
+        "second_price_auction": {
+            "revenue": 63,
+            "welfare": 5,
+            "winning_bid": 68
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.06984686851501465,
+            "revenue": 59,
+            "welfare": -4,
+            "winning_bid": 61
+        },
+        "greedy_private": {
+            "time": 0.06699585914611816,
+            "revenue": 60,
+            "welfare": -8,
+            "winning_bid": 62
+        },
+        "optimal": {
+            "time": 159.73478770256042,
+            "revenue": 65,
+            "welfare": -11,
+            "winning_bid": 66
+        },
+        "second_price_auction": {
+            "revenue": 55,
+            "welfare": 3,
+            "winning_bid": 58
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.06241631507873535,
+            "revenue": 58,
+            "welfare": 8,
+            "winning_bid": 66
+        },
+        "greedy_private": {
+            "time": 0.0625,
+            "revenue": 69,
+            "welfare": -15,
+            "winning_bid": 69
+        },
+        "optimal": {
+            "time": 161.08072018623352,
+            "revenue": 69,
+            "welfare": -3,
+            "winning_bid": 69
+        },
+        "second_price_auction": {
+            "revenue": 54,
+            "welfare": 12,
+            "winning_bid": 66
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.06647419929504395,
+            "revenue": 60,
+            "welfare": 0,
+            "winning_bid": 72
+        },
+        "greedy_private": {
+            "time": 0.07812380790710449,
+            "revenue": 67,
+            "welfare": -7,
+            "winning_bid": 70
+        },
+        "optimal": {
+            "time": 159.43811988830566,
+            "revenue": 70,
+            "welfare": -7,
+            "winning_bid": 73
+        },
+        "second_price_auction": {
+            "revenue": 60,
+            "welfare": 3,
+            "winning_bid": 63
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.0799264907836914,
+            "revenue": 55,
+            "welfare": -6,
+            "winning_bid": 56
+        },
+        "greedy_private": {
+            "time": 0.06503438949584961,
+            "revenue": 58,
+            "welfare": -10,
+            "winning_bid": 58
+        },
+        "optimal": {
+            "time": 158.67679119110107,
+            "revenue": 64,
+            "welfare": -9,
+            "winning_bid": 64
+        },
+        "second_price_auction": {
+            "revenue": 52,
+            "welfare": 3,
+            "winning_bid": 55
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.09074163436889648,
+            "revenue": 53,
+            "welfare": 5,
+            "winning_bid": 61
+        },
+        "greedy_private": {
+            "time": 0.06210827827453613,
+            "revenue": 62,
+            "welfare": -4,
+            "winning_bid": 67
+        },
+        "optimal": {
+            "time": 165.6278305053711,
+            "revenue": 63,
+            "welfare": -5,
+            "winning_bid": 64
+        },
+        "second_price_auction": {
+            "revenue": 58,
+            "welfare": 0,
+            "winning_bid": 58
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.07348966598510742,
+            "revenue": 57,
+            "welfare": 13,
+            "winning_bid": 67
+        },
+        "greedy_private": {
+            "time": 0.09962892532348633,
+            "revenue": 63,
+            "welfare": 7,
+            "winning_bid": 72
+        },
+        "optimal": {
+            "time": 167.01447057724,
+            "revenue": 66,
+            "welfare": 4,
+            "winning_bid": 71
+        },
+        "second_price_auction": {
+            "revenue": 57,
+            "welfare": 13,
+            "winning_bid": 70
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.06699848175048828,
+            "revenue": 65,
+            "welfare": 8,
+            "winning_bid": 82
+        },
+        "greedy_private": {
+            "time": 0.07237029075622559,
+            "revenue": 73,
+            "welfare": 0,
+            "winning_bid": 84
+        },
+        "optimal": {
+            "time": 165.8979663848877,
+            "revenue": 81,
+            "welfare": -18,
+            "winning_bid": 82
+        },
+        "second_price_auction": {
+            "revenue": 70,
+            "welfare": 3,
+            "winning_bid": 73
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.07412123680114746,
+            "revenue": 62,
+            "welfare": -3,
+            "winning_bid": 66
+        },
+        "greedy_private": {
+            "time": 0.07894039154052734,
+            "revenue": 65,
+            "welfare": -6,
+            "winning_bid": 66
+        },
+        "optimal": {
+            "time": 159.6564221382141,
+            "revenue": 66,
+            "welfare": -7,
+            "winning_bid": 66
+        },
+        "second_price_auction": {
+            "revenue": 59,
+            "welfare": 1,
+            "winning_bid": 60
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.05465269088745117,
+            "revenue": 50,
+            "welfare": 14,
+            "winning_bid": 62
+        },
+        "greedy_private": {
+            "time": 0.07964468002319336,
+            "revenue": 56,
+            "welfare": 8,
+            "winning_bid": 70
+        },
+        "optimal": {
+            "time": 157.72841215133667,
+            "revenue": 59,
+            "welfare": -16,
+            "winning_bid": 65
+        },
+        "second_price_auction": {
+            "revenue": 47,
+            "welfare": 17,
+            "winning_bid": 64
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.06394267082214355,
+            "revenue": 75,
+            "welfare": 4,
+            "winning_bid": 80
+        },
+        "greedy_private": {
+            "time": 0.0781242847442627,
+            "revenue": 78,
+            "welfare": 1,
+            "winning_bid": 80
+        },
+        "optimal": {
+            "time": 163.0721275806427,
+            "revenue": 78,
+            "welfare": -2,
+            "winning_bid": 79
+        },
+        "second_price_auction": {
+            "revenue": 76,
+            "welfare": 3,
+            "winning_bid": 79
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.06156349182128906,
+            "revenue": 59,
+            "welfare": 21,
+            "winning_bid": 83
+        },
+        "greedy_private": {
+            "time": 0.06960368156433105,
+            "revenue": 67,
+            "welfare": 13,
+            "winning_bid": 83
+        },
+        "optimal": {
+            "time": 166.95159912109375,
+            "revenue": 72,
+            "welfare": 8,
+            "winning_bid": 83
+        },
+        "second_price_auction": {
+            "revenue": 59,
+            "welfare": 21,
+            "winning_bid": 80
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.06799983978271484,
+            "revenue": 68,
+            "welfare": 2,
+            "winning_bid": 70
+        },
+        "greedy_private": {
+            "time": 0.06903600692749023,
+            "revenue": 65,
+            "welfare": 5,
+            "winning_bid": 76
+        },
+        "optimal": {
+            "time": 166.4444282054901,
+            "revenue": 70,
+            "welfare": 0,
+            "winning_bid": 70
+        },
+        "second_price_auction": {
+            "revenue": 61,
+            "welfare": 9,
+            "winning_bid": 70
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.06197500228881836,
+            "revenue": 60,
+            "welfare": 6,
+            "winning_bid": 70
+        },
+        "greedy_private": {
+            "time": 0.07812690734863281,
+            "revenue": 69,
+            "welfare": -3,
+            "winning_bid": 70
+        },
+        "optimal": {
+            "time": 164.3751118183136,
+            "revenue": 70,
+            "welfare": -4,
+            "winning_bid": 70
+        },
+        "second_price_auction": {
+            "revenue": 55,
+            "welfare": 11,
+            "winning_bid": 66
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.06403350830078125,
+            "revenue": 57,
+            "welfare": 3,
+            "winning_bid": 62
+        },
+        "greedy_private": {
+            "time": 0.06600093841552734,
+            "revenue": 65,
+            "welfare": 1,
+            "winning_bid": 68
+        },
+        "optimal": {
+            "time": 161.18336153030396,
+            "revenue": 66,
+            "welfare": 0,
+            "winning_bid": 68
+        },
+        "second_price_auction": {
+            "revenue": 60,
+            "welfare": 6,
+            "winning_bid": 66
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.07799959182739258,
+            "revenue": 61,
+            "welfare": 15,
+            "winning_bid": 74
+        },
+        "greedy_private": {
+            "time": 0.08599734306335449,
+            "revenue": 61,
+            "welfare": 15,
+            "winning_bid": 80
+        },
+        "optimal": {
+            "time": 162.69223809242249,
+            "revenue": 66,
+            "welfare": 10,
+            "winning_bid": 74
+        },
+        "second_price_auction": {
+            "revenue": 54,
+            "welfare": 22,
+            "winning_bid": 76
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.04914069175720215,
+            "revenue": 61,
+            "welfare": 2,
+            "winning_bid": 65
+        },
+        "greedy_private": {
+            "time": 0.078125,
+            "revenue": 66,
+            "welfare": -2,
+            "winning_bid": 67
+        },
+        "optimal": {
+            "time": 164.03511691093445,
+            "revenue": 69,
+            "welfare": -11,
+            "winning_bid": 70
+        },
+        "second_price_auction": {
+            "revenue": 63,
+            "welfare": 1,
+            "winning_bid": 64
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.06599879264831543,
+            "revenue": 60,
+            "welfare": -5,
+            "winning_bid": 62
+        },
+        "greedy_private": {
+            "time": 0.06500029563903809,
+            "revenue": 60,
+            "welfare": -5,
+            "winning_bid": 61
+        },
+        "optimal": {
+            "time": 163.514306306839,
+            "revenue": 62,
+            "welfare": -7,
+            "winning_bid": 66
+        },
+        "second_price_auction": {
+            "revenue": 55,
+            "welfare": 4,
+            "winning_bid": 59
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.0640256404876709,
+            "revenue": 65,
+            "welfare": 13,
+            "winning_bid": 80
+        },
+        "greedy_private": {
+            "time": 0.06649947166442871,
+            "revenue": 66,
+            "welfare": 12,
+            "winning_bid": 80
+        },
+        "optimal": {
+            "time": 165.4407353401184,
+            "revenue": 72,
+            "welfare": 6,
+            "winning_bid": 80
+        },
+        "second_price_auction": {
+            "revenue": 60,
+            "welfare": 18,
+            "winning_bid": 78
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.07347416877746582,
+            "revenue": 58,
+            "welfare": -4,
+            "winning_bid": 62
+        },
+        "greedy_private": {
+            "time": 0.0625007152557373,
+            "revenue": 65,
+            "welfare": -4,
+            "winning_bid": 66
+        },
+        "optimal": {
+            "time": 165.00848937034607,
+            "revenue": 67,
+            "welfare": -6,
+            "winning_bid": 67
+        },
+        "second_price_auction": {
+            "revenue": 61,
+            "welfare": 0,
+            "winning_bid": 61
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.0689702033996582,
+            "revenue": 64,
+            "welfare": -2,
+            "winning_bid": 67
+        },
+        "greedy_private": {
+            "time": 0.06802821159362793,
+            "revenue": 68,
+            "welfare": -5,
+            "winning_bid": 68
+        },
+        "optimal": {
+            "time": 166.96822667121887,
+            "revenue": 69,
+            "welfare": -7,
+            "winning_bid": 69
+        },
+        "second_price_auction": {
+            "revenue": 63,
+            "welfare": 2,
+            "winning_bid": 65
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.08437705039978027,
+            "revenue": 69,
+            "welfare": 9,
+            "winning_bid": 77
+        },
+        "greedy_private": {
+            "time": 0.055429935455322266,
+            "revenue": 79,
+            "welfare": -1,
+            "winning_bid": 82
+        },
+        "optimal": {
+            "time": 167.0357596874237,
+            "revenue": 79,
+            "welfare": -1,
+            "winning_bid": 81
+        },
+        "second_price_auction": {
+            "revenue": 63,
+            "welfare": 15,
+            "winning_bid": 78
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.0769500732421875,
+            "revenue": 58,
+            "welfare": 15,
+            "winning_bid": 71
+        },
+        "greedy_private": {
+            "time": 0.0781247615814209,
+            "revenue": 64,
+            "welfare": 9,
+            "winning_bid": 76
+        },
+        "optimal": {
+            "time": 164.6419780254364,
+            "revenue": 64,
+            "welfare": 9,
+            "winning_bid": 71
+        },
+        "second_price_auction": {
+            "revenue": 43,
+            "welfare": 30,
+            "winning_bid": 73
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.06500411033630371,
+            "revenue": 51,
+            "welfare": 4,
+            "winning_bid": 56
+        },
+        "greedy_private": {
+            "time": 0.05964493751525879,
+            "revenue": 57,
+            "welfare": -16,
+            "winning_bid": 57
+        },
+        "optimal": {
+            "time": 160.38244938850403,
+            "revenue": 60,
+            "welfare": -14,
+            "winning_bid": 62
+        },
+        "second_price_auction": {
+            "revenue": 49,
+            "welfare": 6,
+            "winning_bid": 55
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.05121183395385742,
+            "revenue": 73,
+            "welfare": 2,
+            "winning_bid": 79
+        },
+        "greedy_private": {
+            "time": 0.07812237739562988,
+            "revenue": 78,
+            "welfare": -9,
+            "winning_bid": 78
+        },
+        "optimal": {
+            "time": 166.46905517578125,
+            "revenue": 79,
+            "welfare": -4,
+            "winning_bid": 80
+        },
+        "second_price_auction": {
+            "revenue": 69,
+            "welfare": 6,
+            "winning_bid": 75
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.06536054611206055,
+            "revenue": 59,
+            "welfare": 0,
+            "winning_bid": 62
+        },
+        "greedy_private": {
+            "time": 0.0659935474395752,
+            "revenue": 61,
+            "welfare": -2,
+            "winning_bid": 64
+        },
+        "optimal": {
+            "time": 166.79250359535217,
+            "revenue": 63,
+            "welfare": -5,
+            "winning_bid": 63
+        },
+        "second_price_auction": {
+            "revenue": 59,
+            "welfare": 0,
+            "winning_bid": 59
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.06273102760314941,
+            "revenue": 65,
+            "welfare": -1,
+            "winning_bid": 69
+        },
+        "greedy_private": {
+            "time": 0.062499284744262695,
+            "revenue": 69,
+            "welfare": -2,
+            "winning_bid": 71
+        },
+        "optimal": {
+            "time": 167.33886766433716,
+            "revenue": 71,
+            "welfare": -7,
+            "winning_bid": 72
+        },
+        "second_price_auction": {
+            "revenue": 64,
+            "welfare": 3,
+            "winning_bid": 67
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.06229066848754883,
+            "revenue": 59,
+            "welfare": 4,
+            "winning_bid": 69
+        },
+        "greedy_private": {
+            "time": 0.078125,
+            "revenue": 63,
+            "welfare": 0,
+            "winning_bid": 69
+        },
+        "optimal": {
+            "time": 160.36966633796692,
+            "revenue": 71,
+            "welfare": -19,
+            "winning_bid": 74
+        },
+        "second_price_auction": {
+            "revenue": 58,
+            "welfare": 5,
+            "winning_bid": 63
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.06937885284423828,
+            "revenue": 57,
+            "welfare": 4,
+            "winning_bid": 70
+        },
+        "greedy_private": {
+            "time": 0.07812285423278809,
+            "revenue": 64,
+            "welfare": -3,
+            "winning_bid": 67
+        },
+        "optimal": {
+            "time": 164.2831633090973,
+            "revenue": 67,
+            "welfare": -18,
+            "winning_bid": 67
+        },
+        "second_price_auction": {
+            "revenue": 56,
+            "welfare": 5,
+            "winning_bid": 61
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.05257248878479004,
+            "revenue": 60,
+            "welfare": -1,
+            "winning_bid": 68
+        },
+        "greedy_private": {
+            "time": 0.0781247615814209,
+            "revenue": 64,
+            "welfare": -12,
+            "winning_bid": 64
+        },
+        "optimal": {
+            "time": 164.8401391506195,
+            "revenue": 68,
+            "welfare": -9,
+            "winning_bid": 68
+        },
+        "second_price_auction": {
+            "revenue": 54,
+            "welfare": 5,
+            "winning_bid": 59
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.06799483299255371,
+            "revenue": 72,
+            "welfare": 11,
+            "winning_bid": 79
+        },
+        "greedy_private": {
+            "time": 0.07203531265258789,
+            "revenue": 72,
+            "welfare": 11,
+            "winning_bid": 85
+        },
+        "optimal": {
+            "time": 166.61934638023376,
+            "revenue": 79,
+            "welfare": 4,
+            "winning_bid": 83
+        },
+        "second_price_auction": {
+            "revenue": 67,
+            "welfare": 16,
+            "winning_bid": 83
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.053342580795288086,
+            "revenue": 60,
+            "welfare": 4,
+            "winning_bid": 67
+        },
+        "greedy_private": {
+            "time": 0.09374642372131348,
+            "revenue": 66,
+            "welfare": -2,
+            "winning_bid": 67
+        },
+        "optimal": {
+            "time": 170.09498190879822,
+            "revenue": 67,
+            "welfare": -11,
+            "winning_bid": 67
+        },
+        "second_price_auction": {
+            "revenue": 62,
+            "welfare": 2,
+            "winning_bid": 64
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.05800032615661621,
+            "revenue": 61,
+            "welfare": 3,
+            "winning_bid": 67
+        },
+        "greedy_private": {
+            "time": 0.0781240463256836,
+            "revenue": 66,
+            "welfare": -3,
+            "winning_bid": 68
+        },
+        "optimal": {
+            "time": 169.1972312927246,
+            "revenue": 68,
+            "welfare": -9,
+            "winning_bid": 68
+        },
+        "second_price_auction": {
+            "revenue": 63,
+            "welfare": 1,
+            "winning_bid": 64
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.08977508544921875,
+            "revenue": 51,
+            "welfare": -4,
+            "winning_bid": 52
+        },
+        "greedy_private": {
+            "time": 0.0625004768371582,
+            "revenue": 56,
+            "welfare": -9,
+            "winning_bid": 63
+        },
+        "optimal": {
+            "time": 164.26976537704468,
+            "revenue": 58,
+            "welfare": -5,
+            "winning_bid": 59
+        },
+        "second_price_auction": {
+            "revenue": 50,
+            "welfare": 3,
+            "winning_bid": 53
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.08930444717407227,
+            "revenue": 58,
+            "welfare": 12,
+            "winning_bid": 67
+        },
+        "greedy_private": {
+            "time": 0.06253552436828613,
+            "revenue": 66,
+            "welfare": 4,
+            "winning_bid": 70
+        },
+        "optimal": {
+            "time": 166.74941444396973,
+            "revenue": 70,
+            "welfare": 0,
+            "winning_bid": 70
+        },
+        "second_price_auction": {
+            "revenue": 58,
+            "welfare": 12,
+            "winning_bid": 70
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.06016969680786133,
+            "revenue": 53,
+            "welfare": 4,
+            "winning_bid": 60
+        },
+        "greedy_private": {
+            "time": 0.078125,
+            "revenue": 57,
+            "welfare": 0,
+            "winning_bid": 62
+        },
+        "optimal": {
+            "time": 171.81154108047485,
+            "revenue": 60,
+            "welfare": -11,
+            "winning_bid": 60
+        },
+        "second_price_auction": {
+            "revenue": 53,
+            "welfare": 4,
+            "winning_bid": 57
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.07329988479614258,
+            "revenue": 63,
+            "welfare": 16,
+            "winning_bid": 78
+        },
+        "greedy_private": {
+            "time": 0.07597017288208008,
+            "revenue": 66,
+            "welfare": 13,
+            "winning_bid": 83
+        },
+        "optimal": {
+            "time": 174.00172352790833,
+            "revenue": 69,
+            "welfare": 10,
+            "winning_bid": 78
+        },
+        "second_price_auction": {
+            "revenue": 63,
+            "welfare": 16,
+            "winning_bid": 79
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.06696391105651855,
+            "revenue": 62,
+            "welfare": 1,
+            "winning_bid": 67
+        },
+        "greedy_private": {
+            "time": 0.06699037551879883,
+            "revenue": 67,
+            "welfare": -4,
+            "winning_bid": 68
+        },
+        "optimal": {
+            "time": 169.02324771881104,
+            "revenue": 70,
+            "welfare": -7,
+            "winning_bid": 70
+        },
+        "second_price_auction": {
+            "revenue": 59,
+            "welfare": 4,
+            "winning_bid": 63
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.09432339668273926,
+            "revenue": 55,
+            "welfare": 10,
+            "winning_bid": 69
+        },
+        "greedy_private": {
+            "time": 0.07140541076660156,
+            "revenue": 59,
+            "welfare": 6,
+            "winning_bid": 69
+        },
+        "optimal": {
+            "time": 167.3342833518982,
+            "revenue": 66,
+            "welfare": -1,
+            "winning_bid": 69
+        },
+        "second_price_auction": {
+            "revenue": 50,
+            "welfare": 15,
+            "winning_bid": 65
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.0650014877319336,
+            "revenue": 55,
+            "welfare": -8,
+            "winning_bid": 58
+        },
+        "greedy_private": {
+            "time": 0.0670003890991211,
+            "revenue": 60,
+            "welfare": -8,
+            "winning_bid": 60
+        },
+        "optimal": {
+            "time": 165.7459716796875,
+            "revenue": 59,
+            "welfare": -5,
+            "winning_bid": 59
+        },
+        "second_price_auction": {
+            "revenue": 52,
+            "welfare": 2,
+            "winning_bid": 54
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.07196855545043945,
+            "revenue": 58,
+            "welfare": 10,
+            "winning_bid": 68
+        },
+        "greedy_private": {
+            "time": 0.07099652290344238,
+            "revenue": 61,
+            "welfare": 7,
+            "winning_bid": 70
+        },
+        "optimal": {
+            "time": 166.91047143936157,
+            "revenue": 67,
+            "welfare": 1,
+            "winning_bid": 68
+        },
+        "second_price_auction": {
+            "revenue": 56,
+            "welfare": 12,
+            "winning_bid": 68
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.06703352928161621,
+            "revenue": 57,
+            "welfare": 3,
+            "winning_bid": 64
+        },
+        "greedy_private": {
+            "time": 0.06999802589416504,
+            "revenue": 60,
+            "welfare": 0,
+            "winning_bid": 69
+        },
+        "optimal": {
+            "time": 166.45070028305054,
+            "revenue": 65,
+            "welfare": -5,
+            "winning_bid": 67
+        },
+        "second_price_auction": {
+            "revenue": 53,
+            "welfare": 7,
+            "winning_bid": 60
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.05404996871948242,
+            "revenue": 60,
+            "welfare": 0,
+            "winning_bid": 62
+        },
+        "greedy_private": {
+            "time": 0.07812333106994629,
+            "revenue": 59,
+            "welfare": 1,
+            "winning_bid": 64
+        },
+        "optimal": {
+            "time": 166.89875149726868,
+            "revenue": 62,
+            "welfare": -2,
+            "winning_bid": 63
+        },
+        "second_price_auction": {
+            "revenue": 58,
+            "welfare": 2,
+            "winning_bid": 60
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.06538605690002441,
+            "revenue": 60,
+            "welfare": -1,
+            "winning_bid": 64
+        },
+        "greedy_private": {
+            "time": 0.07058978080749512,
+            "revenue": 67,
+            "welfare": -8,
+            "winning_bid": 70
+        },
+        "optimal": {
+            "time": 167.4901909828186,
+            "revenue": 69,
+            "welfare": -10,
+            "winning_bid": 71
+        },
+        "second_price_auction": {
+            "revenue": 59,
+            "welfare": 1,
+            "winning_bid": 60
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.050534725189208984,
+            "revenue": 63,
+            "welfare": 0,
+            "winning_bid": 64
+        },
+        "greedy_private": {
+            "time": 0.07817220687866211,
+            "revenue": 67,
+            "welfare": -6,
+            "winning_bid": 67
+        },
+        "optimal": {
+            "time": 169.65165519714355,
+            "revenue": 69,
+            "welfare": -5,
+            "winning_bid": 70
+        },
+        "second_price_auction": {
+            "revenue": 63,
+            "welfare": 1,
+            "winning_bid": 64
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.0670158863067627,
+            "revenue": 47,
+            "welfare": 13,
+            "winning_bid": 71
+        },
+        "greedy_private": {
+            "time": 0.06800293922424316,
+            "revenue": 56,
+            "welfare": 4,
+            "winning_bid": 75
+        },
+        "optimal": {
+            "time": 168.9991273880005,
+            "revenue": 59,
+            "welfare": 1,
+            "winning_bid": 60
+        },
+        "second_price_auction": {
+            "revenue": 46,
+            "welfare": 14,
+            "winning_bid": 60
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.06600093841552734,
+            "revenue": 68,
+            "welfare": -3,
+            "winning_bid": 70
+        },
+        "greedy_private": {
+            "time": 0.06968569755554199,
+            "revenue": 69,
+            "welfare": -4,
+            "winning_bid": 70
+        },
+        "optimal": {
+            "time": 168.62250757217407,
+            "revenue": 71,
+            "welfare": -6,
+            "winning_bid": 72
+        },
+        "second_price_auction": {
+            "revenue": 63,
+            "welfare": 2,
+            "winning_bid": 65
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.07883524894714355,
+            "revenue": 51,
+            "welfare": 9,
+            "winning_bid": 61
+        },
+        "greedy_private": {
+            "time": 0.0625002384185791,
+            "revenue": 58,
+            "welfare": 2,
+            "winning_bid": 61
+        },
+        "optimal": {
+            "time": 169.33247923851013,
+            "revenue": 61,
+            "welfare": -1,
+            "winning_bid": 61
+        },
+        "second_price_auction": {
+            "revenue": 50,
+            "welfare": 10,
+            "winning_bid": 60
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.06566071510314941,
+            "revenue": 52,
+            "welfare": 4,
+            "winning_bid": 61
+        },
+        "greedy_private": {
+            "time": 0.0625004768371582,
+            "revenue": 61,
+            "welfare": -5,
+            "winning_bid": 68
+        },
+        "optimal": {
+            "time": 172.0752251148224,
+            "revenue": 62,
+            "welfare": -12,
+            "winning_bid": 64
+        },
+        "second_price_auction": {
+            "revenue": 51,
+            "welfare": 5,
+            "winning_bid": 56
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.07202029228210449,
+            "revenue": 62,
+            "welfare": -6,
+            "winning_bid": 65
+        },
+        "greedy_private": {
+            "time": 0.07812333106994629,
+            "revenue": 72,
+            "welfare": -12,
+            "winning_bid": 73
+        },
+        "optimal": {
+            "time": 166.26916933059692,
+            "revenue": 69,
+            "welfare": -13,
+            "winning_bid": 69
+        },
+        "second_price_auction": {
+            "revenue": 61,
+            "welfare": 1,
+            "winning_bid": 62
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.06419491767883301,
+            "revenue": 45,
+            "welfare": 16,
+            "winning_bid": 64
+        },
+        "greedy_private": {
+            "time": 0.07812786102294922,
+            "revenue": 54,
+            "welfare": 7,
+            "winning_bid": 66
+        },
+        "optimal": {
+            "time": 172.42218351364136,
+            "revenue": 58,
+            "welfare": 3,
+            "winning_bid": 61
+        },
+        "second_price_auction": {
+            "revenue": 50,
+            "welfare": 11,
+            "winning_bid": 61
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.0530543327331543,
+            "revenue": 60,
+            "welfare": 17,
+            "winning_bid": 72
+        },
+        "greedy_private": {
+            "time": 0.07812738418579102,
+            "revenue": 70,
+            "welfare": 7,
+            "winning_bid": 78
+        },
+        "optimal": {
+            "time": 182.67239141464233,
+            "revenue": 75,
+            "welfare": 2,
+            "winning_bid": 77
+        },
+        "second_price_auction": {
+            "revenue": 66,
+            "welfare": 11,
+            "winning_bid": 77
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.06702136993408203,
+            "revenue": 71,
+            "welfare": 2,
+            "winning_bid": 75
+        },
+        "greedy_private": {
+            "time": 0.0680091381072998,
+            "revenue": 74,
+            "welfare": -1,
+            "winning_bid": 76
+        },
+        "optimal": {
+            "time": 165.72761988639832,
+            "revenue": 80,
+            "welfare": -12,
+            "winning_bid": 80
+        },
+        "second_price_auction": {
+            "revenue": 68,
+            "welfare": 5,
+            "winning_bid": 73
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.0670008659362793,
+            "revenue": 61,
+            "welfare": 7,
+            "winning_bid": 73
+        },
+        "greedy_private": {
+            "time": 0.06699919700622559,
+            "revenue": 68,
+            "welfare": 0,
+            "winning_bid": 74
+        },
+        "optimal": {
+            "time": 171.3842887878418,
+            "revenue": 68,
+            "welfare": 0,
+            "winning_bid": 68
+        },
+        "second_price_auction": {
+            "revenue": 67,
+            "welfare": 1,
+            "winning_bid": 68
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.052512407302856445,
+            "revenue": 58,
+            "welfare": 2,
+            "winning_bid": 60
+        },
+        "greedy_private": {
+            "time": 0.07364845275878906,
+            "revenue": 59,
+            "welfare": 1,
+            "winning_bid": 64
+        },
+        "optimal": {
+            "time": 161.89526391029358,
+            "revenue": 65,
+            "welfare": -29,
+            "winning_bid": 65
+        },
+        "second_price_auction": {
+            "revenue": 55,
+            "welfare": 5,
+            "winning_bid": 60
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.05781054496765137,
+            "revenue": 69,
+            "welfare": 8,
+            "winning_bid": 76
+        },
+        "greedy_private": {
+            "time": 0.08104586601257324,
+            "revenue": 69,
+            "welfare": 8,
+            "winning_bid": 81
+        },
+        "optimal": {
+            "time": 163.17694330215454,
+            "revenue": 75,
+            "welfare": 2,
+            "winning_bid": 77
+        },
+        "second_price_auction": {
+            "revenue": 63,
+            "welfare": 14,
+            "winning_bid": 77
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.06697344779968262,
+            "revenue": 66,
+            "welfare": -2,
+            "winning_bid": 67
+        },
+        "greedy_private": {
+            "time": 0.06703472137451172,
+            "revenue": 67,
+            "welfare": -8,
+            "winning_bid": 67
+        },
+        "optimal": {
+            "time": 164.54681491851807,
+            "revenue": 67,
+            "welfare": -3,
+            "winning_bid": 67
+        },
+        "second_price_auction": {
+            "revenue": 59,
+            "welfare": 5,
+            "winning_bid": 64
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.09513449668884277,
+            "revenue": 61,
+            "welfare": -9,
+            "winning_bid": 62
+        },
+        "greedy_private": {
+            "time": 0.07812261581420898,
+            "revenue": 64,
+            "welfare": -12,
+            "winning_bid": 71
+        },
+        "optimal": {
+            "time": 159.94930362701416,
+            "revenue": 68,
+            "welfare": -11,
+            "winning_bid": 70
+        },
+        "second_price_auction": {
+            "revenue": 52,
+            "welfare": 5,
+            "winning_bid": 57
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.07417440414428711,
+            "revenue": 69,
+            "welfare": -4,
+            "winning_bid": 70
+        },
+        "greedy_private": {
+            "time": 0.06249594688415527,
+            "revenue": 73,
+            "welfare": -8,
+            "winning_bid": 76
+        },
+        "optimal": {
+            "time": 160.60246396064758,
+            "revenue": 74,
+            "welfare": -5,
+            "winning_bid": 74
+        },
+        "second_price_auction": {
+            "revenue": 65,
+            "welfare": 4,
+            "winning_bid": 69
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.05660867691040039,
+            "revenue": 54,
+            "welfare": 3,
+            "winning_bid": 56
+        },
+        "greedy_private": {
+            "time": 0.07813215255737305,
+            "revenue": 57,
+            "welfare": 0,
+            "winning_bid": 61
+        },
+        "optimal": {
+            "time": 161.1934425830841,
+            "revenue": 62,
+            "welfare": -12,
+            "winning_bid": 62
+        },
+        "second_price_auction": {
+            "revenue": 55,
+            "welfare": 2,
+            "winning_bid": 57
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.06977367401123047,
+            "revenue": 65,
+            "welfare": -2,
+            "winning_bid": 73
+        },
+        "greedy_private": {
+            "time": 0.06249547004699707,
+            "revenue": 70,
+            "welfare": -7,
+            "winning_bid": 70
+        },
+        "optimal": {
+            "time": 164.09716033935547,
+            "revenue": 72,
+            "welfare": -5,
+            "winning_bid": 73
+        },
+        "second_price_auction": {
+            "revenue": 63,
+            "welfare": 4,
+            "winning_bid": 67
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.05374884605407715,
+            "revenue": 58,
+            "welfare": 19,
+            "winning_bid": 82
+        },
+        "greedy_private": {
+            "time": 0.0639188289642334,
+            "revenue": 64,
+            "welfare": 13,
+            "winning_bid": 82
+        },
+        "optimal": {
+            "time": 159.6877200603485,
+            "revenue": 73,
+            "welfare": 4,
+            "winning_bid": 76
+        },
+        "second_price_auction": {
+            "revenue": 59,
+            "welfare": 18,
+            "winning_bid": 77
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.06432843208312988,
+            "revenue": 51,
+            "welfare": 19,
+            "winning_bid": 72
+        },
+        "greedy_private": {
+            "time": 0.07065153121948242,
+            "revenue": 52,
+            "welfare": 18,
+            "winning_bid": 76
+        },
+        "optimal": {
+            "time": 160.70691537857056,
+            "revenue": 56,
+            "welfare": 14,
+            "winning_bid": 70
+        },
+        "second_price_auction": {
+            "revenue": 47,
+            "welfare": 23,
+            "winning_bid": 70
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.06165623664855957,
+            "revenue": 59,
+            "welfare": 12,
+            "winning_bid": 71
+        },
+        "greedy_private": {
+            "time": 0.07812643051147461,
+            "revenue": 64,
+            "welfare": 7,
+            "winning_bid": 76
+        },
+        "optimal": {
+            "time": 160.31615114212036,
+            "revenue": 68,
+            "welfare": 3,
+            "winning_bid": 71
+        },
+        "second_price_auction": {
+            "revenue": 55,
+            "welfare": 16,
+            "winning_bid": 71
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.058931827545166016,
+            "revenue": 63,
+            "welfare": 4,
+            "winning_bid": 67
+        },
+        "greedy_private": {
+            "time": 0.0781254768371582,
+            "revenue": 68,
+            "welfare": -1,
+            "winning_bid": 71
+        },
+        "optimal": {
+            "time": 163.229975938797,
+            "revenue": 69,
+            "welfare": -2,
+            "winning_bid": 69
+        },
+        "second_price_auction": {
+            "revenue": 65,
+            "welfare": 2,
+            "winning_bid": 67
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.06656908988952637,
+            "revenue": 59,
+            "welfare": -3,
+            "winning_bid": 60
+        },
+        "greedy_private": {
+            "time": 0.06612801551818848,
+            "revenue": 63,
+            "welfare": -7,
+            "winning_bid": 64
+        },
+        "optimal": {
+            "time": 163.03123593330383,
+            "revenue": 64,
+            "welfare": -8,
+            "winning_bid": 64
+        },
+        "second_price_auction": {
+            "revenue": 56,
+            "welfare": 0,
+            "winning_bid": 56
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.09210085868835449,
+            "revenue": 71,
+            "welfare": -7,
+            "winning_bid": 71
+        },
+        "greedy_private": {
+            "time": 0.06254029273986816,
+            "revenue": 69,
+            "welfare": -5,
+            "winning_bid": 72
+        },
+        "optimal": {
+            "time": 161.0346336364746,
+            "revenue": 75,
+            "welfare": -9,
+            "winning_bid": 77
+        },
+        "second_price_auction": {
+            "revenue": 64,
+            "welfare": 2,
+            "winning_bid": 66
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.09398460388183594,
+            "revenue": 63,
+            "welfare": 10,
+            "winning_bid": 72
+        },
+        "greedy_private": {
+            "time": 0.0746006965637207,
+            "revenue": 65,
+            "welfare": 8,
+            "winning_bid": 74
+        },
+        "optimal": {
+            "time": 163.90939569473267,
+            "revenue": 71,
+            "welfare": 2,
+            "winning_bid": 72
+        },
+        "second_price_auction": {
+            "revenue": 61,
+            "welfare": 12,
+            "winning_bid": 73
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.09266233444213867,
+            "revenue": 65,
+            "welfare": 4,
+            "winning_bid": 68
+        },
+        "greedy_private": {
+            "time": 0.06103658676147461,
+            "revenue": 69,
+            "welfare": 0,
+            "winning_bid": 75
+        },
+        "optimal": {
+            "time": 159.51407170295715,
+            "revenue": 69,
+            "welfare": 0,
+            "winning_bid": 69
+        },
+        "second_price_auction": {
+            "revenue": 62,
+            "welfare": 7,
+            "winning_bid": 69
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.09240865707397461,
+            "revenue": 60,
+            "welfare": 6,
+            "winning_bid": 70
+        },
+        "greedy_private": {
+            "time": 0.07071995735168457,
+            "revenue": 68,
+            "welfare": -2,
+            "winning_bid": 70
+        },
+        "optimal": {
+            "time": 159.83505201339722,
+            "revenue": 72,
+            "welfare": -6,
+            "winning_bid": 73
+        },
+        "second_price_auction": {
+            "revenue": 60,
+            "welfare": 6,
+            "winning_bid": 66
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.08987259864807129,
+            "revenue": 62,
+            "welfare": 14,
+            "winning_bid": 76
+        },
+        "greedy_private": {
+            "time": 0.08306384086608887,
+            "revenue": 74,
+            "welfare": 2,
+            "winning_bid": 80
+        },
+        "optimal": {
+            "time": 159.5261754989624,
+            "revenue": 77,
+            "welfare": -1,
+            "winning_bid": 77
+        },
+        "second_price_auction": {
+            "revenue": 70,
+            "welfare": 6,
+            "winning_bid": 76
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.09101128578186035,
+            "revenue": 68,
+            "welfare": 0,
+            "winning_bid": 69
+        },
+        "greedy_private": {
+            "time": 0.07996439933776855,
+            "revenue": 66,
+            "welfare": 2,
+            "winning_bid": 71
+        },
+        "optimal": {
+            "time": 160.71831226348877,
+            "revenue": 71,
+            "welfare": -8,
+            "winning_bid": 72
+        },
+        "second_price_auction": {
+            "revenue": 63,
+            "welfare": 5,
+            "winning_bid": 68
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.0520174503326416,
+            "revenue": 63,
+            "welfare": -2,
+            "winning_bid": 64
+        },
+        "greedy_private": {
+            "time": 0.0781254768371582,
+            "revenue": 65,
+            "welfare": -3,
+            "winning_bid": 69
+        },
+        "optimal": {
+            "time": 156.61431431770325,
+            "revenue": 68,
+            "welfare": -7,
+            "winning_bid": 69
+        },
+        "second_price_auction": {
+            "revenue": 61,
+            "welfare": 1,
+            "winning_bid": 62
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.07393860816955566,
+            "revenue": 68,
+            "welfare": -3,
+            "winning_bid": 74
+        },
+        "greedy_private": {
+            "time": 0.0781245231628418,
+            "revenue": 71,
+            "welfare": -3,
+            "winning_bid": 72
+        },
+        "optimal": {
+            "time": 159.25689244270325,
+            "revenue": 73,
+            "welfare": -5,
+            "winning_bid": 75
+        },
+        "second_price_auction": {
+            "revenue": 65,
+            "welfare": 3,
+            "winning_bid": 68
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.07950425148010254,
+            "revenue": 77,
+            "welfare": 18,
+            "winning_bid": 94
+        },
+        "greedy_private": {
+            "time": 0.07812285423278809,
+            "revenue": 77,
+            "welfare": 18,
+            "winning_bid": 98
+        },
+        "optimal": {
+            "time": 163.42770195007324,
+            "revenue": 77,
+            "welfare": 18,
+            "winning_bid": 91
+        },
+        "second_price_auction": {
+            "revenue": 72,
+            "welfare": 23,
+            "winning_bid": 95
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.0579829216003418,
+            "revenue": 63,
+            "welfare": 0,
+            "winning_bid": 65
+        },
+        "greedy_private": {
+            "time": 0.09375,
+            "revenue": 61,
+            "welfare": 2,
+            "winning_bid": 67
+        },
+        "optimal": {
+            "time": 158.32760095596313,
+            "revenue": 65,
+            "welfare": -2,
+            "winning_bid": 66
+        },
+        "second_price_auction": {
+            "revenue": 59,
+            "welfare": 4,
+            "winning_bid": 63
+        }
+    },
+    {
+        "greedy": {
+            "time": 0.08235788345336914,
+            "revenue": 51,
+            "welfare": -6,
+            "winning_bid": 51
+        },
+        "greedy_private": {
+            "time": 0.06249523162841797,
+            "revenue": 62,
+            "welfare": -8,
+            "winning_bid": 65
+        },
+        "optimal": {
+            "time": 159.43606185913086,
+            "revenue": 62,
+            "welfare": -5,
+            "winning_bid": 62
+        },
+        "second_price_auction": {
+            "revenue": 54,
+            "welfare": 3,
+            "winning_bid": 57
+        }
+    }
+]
